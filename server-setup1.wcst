@@ -41,6 +41,12 @@
 				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" />
 			</movie>
 		</preset>
+		<preset output_presetname="WirecastInternalVirtualCameraPreset">
+			<movie format="Virtual Camera" output_system="virtual-capture">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" match_canvas="1" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="0" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" output_shared_memory="0" output_virtual_microphone="0" />
+			</movie>
+		</preset>
 	</output_presets>
 	<volume value="1" />
 	<preview_volume value="1" />
