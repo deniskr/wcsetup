@@ -1,16 +1,18 @@
 <document version="6" os="windows" original_document_path="C:\Users\Administrator\Documents\Wirecast\wcsetup\server-setup1.wcst">
 	<open_windows>
 		<vamWindowGlass frame="0,23,1285,729" asset_icon_scale="0.5" asset_icon_updateFPS="15" selected_layer="1836282930" vam_main_splitter="0.65" />
-		<vaseWindowGlass frame="341,64,964,670" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="554:EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" basket_id="554" asset_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" />
 	</open_windows>
+	<window_info>
+		<window frame="341,64,964,670" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="554:EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" asset_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" />
+	</window_info>
 	<vam_state master_audio_shown="1010" master_audio_monitor="0" preview_audio_monitor="0" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" transition_selected="0" />
 	<transition_data />
 	<chroma_key_data />
 	<advanced_output>
-		<output_list output_last_selected="23A240C3-E1CC-48DE-A508-B3B402747FA5">
+		<output_list output_last_selected="7E45663B-00BE-4673-91AF-5E0169F86B0E">
 			<output output_type="2" output_branding="youtube" output_display_group_name="YouTube" output_display_name="Denis Krivitski Live Stream" output_guid="374F8CCA-39E7-4A4E-B150-83E764849BAC" unique_id="2" use_backup="0" yt_end_v1_ad_enabled="0" start_event_upon_streaming="0" output_password="1/XuZTvkbN5YohO9QAUqK23OWMsSVJMCs4MREPFf4Kn7E" output_username="denis.krivitski@gmail.com" event_id="O_YIjqxU1U4" output_url="rtmp://a.rtmp.youtube.com/live2" output_location="c270-5e38-mxvh-39dm" youtube_title="Denis Krivitski Live Stream" output_presetname="YouTube: 240p Recommended" output_enabled="0" output_location_with_bitrate="c270-5e38-mxvh-39dm" output_settings_complete="0" output_id="5593E288-89B4-4E92-B9F2-6F44C6F23B34" />
-			<output output_enabled="1" output_type="1" output_url="/Users/denis/Documents/Business/Waja/Zoom/Wirecast Recordings/MyStream.mov" output_autoinfilename="1" output_branding="Record To Disk MOV Brand" output_display_name="Record To Disk - MOV" output_display_group_name="Record To Disk - MOV" output_presetname="ProRes 480p 16:9 (854x480)" output_settings_complete="1" output_id="7E45663B-00BE-4673-91AF-5E0169F86B0E" unique_id="5" output_guid="F5E32B2F-6836-4368-9A9A-B8A788F6BD65" />
-			<output output_type="2" output_branding="Facebook" output_display_group_name="Facebook" output_display_name="WajaTest" output_guid="7199653A-1A83-4468-B2A6-544631E9544B" unique_id="4" output_presetname="H.264 720p 16:9 (1280x720)" title="WajaTest" description="" selectedPageIndex="1" selectedPrivacyIndex="0" output_enabled="1" oauth_access_token="EAAX7qR8CHPEBAA6fuUaiA2ZC803Bpsgs7aAjzZA8dgMaK1iwJR0cllrmL456pIPg0KRhePRZCLumtfQXlrBnep0fa1XihMUqrURjB5Op6UuZBwWfoidpxnc5ZADmoEo2rsYQQ6hEPRphxjDlY6QBNCdpNlZBAE309ofcIf1WtI4QZDZD" output_username="DenTry Uzunebko" output_url="rtmp://rtmp-api.facebook.com:80/rtmp/" output_location="570894499755082?ds=1&amp;a=AdroWe903lm-0-KH" output_location_with_bitrate="570894499755082?ds=1&amp;a=AdroWe903lm-0-KH" output_user_name="WajaTest" output_settings_complete="1" output_id="23A240C3-E1CC-48DE-A508-B3B402747FA5">
+			<output output_enabled="1" output_type="1" output_url="C:\Users\Administrator\Documents\Wirecast\Recordings\MyStream.mp4" output_autoinfilename="1" output_branding="Record To Disk MP4 Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk - MP4" output_presetname="H.264 720p 16:9 (1280x720)" output_settings_complete="1" output_id="7E45663B-00BE-4673-91AF-5E0169F86B0E" unique_id="5" output_guid="d816198e-dd65-40e0-a09a-6b115f7398bf" />
+			<output output_type="2" output_branding="Facebook" output_display_group_name="Facebook" output_display_name="WajaTest" output_guid="7199653A-1A83-4468-B2A6-544631E9544B" unique_id="4" output_presetname="H.264 720p 16:9 (1280x720)" title="WajaTest" description="" selectedPageIndex="1" selectedPrivacyIndex="0" output_enabled="1" oauth_access_token="EAAX7qR8CHPEBAA6fuUaiA2ZC803Bpsgs7aAjzZA8dgMaK1iwJR0cllrmL456pIPg0KRhePRZCLumtfQXlrBnep0fa1XihMUqrURjB5Op6UuZBwWfoidpxnc5ZADmoEo2rsYQQ6hEPRphxjDlY6QBNCdpNlZBAE309ofcIf1WtI4QZDZD" output_username="DenTry Uzunebko" output_url="rtmp://rtmp-api.facebook.com:80/rtmp/" output_location="575177582660107?ds=1&amp;a=AaZYYhiwyC-Xklhi" output_location_with_bitrate="575177582660107?ds=1&amp;a=AaZYYhiwyC-Xklhi" output_user_name="WajaTest" output_settings_complete="1" output_id="23A240C3-E1CC-48DE-A508-B3B402747FA5" flash_streaming_delay="0">
 				<pageList>
 					<xml_tag id="568775543300311" access_token="EAAX7qR8CHPEBAJvfTxg8rXO1LV08QZB6id1naPUn4oRCk6tcn2u9hl6J0xmIxAmbmggF9cCMeWNC8PXNoWbbq6kcY6qtdwn3OFpGnfRyZCWcPH2ktJsZAA1izMzhcTTvw4YdWJqZBi3mjNCtBfbZCcTXdmT9ZAqk2OOYJXz7OvTAZDZD" name="Waja" />
 					<xml_tag id="189609714469540" access_token="EAAX7qR8CHPEBAOsTBkGa0oMJ8tq0eGZBc1My6kvflhOm4cyRLxWKC32LajXN3m35UOwIbITU5lpDMZCmF6HrIcxQmjtRZALTRezAHsZCKddjHX9k5pZCVsn6QZAZBgrEsSdjT6dzeSj0eOn1yW5SzpB9xfjJoSIoILPU8OFq2m8uQZDZD" name="Try app den 2" />
@@ -25,12 +27,6 @@
 			<movie format="Flash" output_system="">
 				<track mo_width="426" mo_height="240" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="400" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="1" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
 				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" />
-			</movie>
-		</preset>
-		<preset output_presetname="ProRes 480p 16:9 (854x480)">
-			<movie format="Flash" output_system="">
-				<track mo_width="854" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="ProRes" fps="30" compressed="1" timescale="3000" target_bit_rate="1150" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="prores_422" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
-				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="LPCM" target_bit_rate="128" timescale="44100" />
 			</movie>
 		</preset>
 		<preset output_presetname="H.264 720p 16:9 (1280x720)">
