@@ -1,10 +1,8 @@
-<document version="6" os="macosx" original_document_path="/Users/denis/Documents/Business/Waja/Zoom/setup1.wcst">
+<document version="6" os="windows" original_document_path="C:\Users\Administrator\Documents\Wirecast\wcsetup\server-setup1.wcst">
 	<open_windows>
-		<vamWindowGlass frame="-4,23,1281,729" asset_icon_scale="0.5" asset_icon_updateFPS="15" selected_layer="1836282928" vam_main_splitter="0.65" />
+		<vamWindowGlass frame="0,23,1285,729" asset_icon_scale="0.5" asset_icon_updateFPS="15" selected_layer="1836282930" vam_main_splitter="0.65" />
+		<vaseWindowGlass frame="341,64,964,670" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="554:EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" basket_id="554" asset_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" />
 	</open_windows>
-	<window_info>
-		<window frame="337,48,941,636" media_asset_icon_scale="0.5" window_class="1933927540" window_info_unique_id="2077:EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" asset_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" />
-	</window_info>
 	<vam_state master_audio_shown="1010" master_audio_monitor="0" preview_audio_monitor="0" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" transition_selected="0" />
 	<transition_data />
 	<chroma_key_data />
@@ -14,9 +12,9 @@
 			<output output_enabled="1" output_type="1" output_url="/Users/denis/Documents/Business/Waja/Zoom/Wirecast Recordings/MyStream.mov" output_autoinfilename="1" output_branding="Record To Disk MOV Brand" output_display_name="Record To Disk - MOV" output_display_group_name="Record To Disk - MOV" output_presetname="ProRes 480p 16:9 (854x480)" output_settings_complete="1" output_id="7E45663B-00BE-4673-91AF-5E0169F86B0E" unique_id="5" output_guid="F5E32B2F-6836-4368-9A9A-B8A788F6BD65" />
 			<output output_type="2" output_branding="Facebook" output_display_group_name="Facebook" output_display_name="WajaTest" output_guid="7199653A-1A83-4468-B2A6-544631E9544B" unique_id="4" output_presetname="H.264 720p 16:9 (1280x720)" title="WajaTest" description="" selectedPageIndex="1" selectedPrivacyIndex="0" output_enabled="1" oauth_access_token="EAAX7qR8CHPEBAA6fuUaiA2ZC803Bpsgs7aAjzZA8dgMaK1iwJR0cllrmL456pIPg0KRhePRZCLumtfQXlrBnep0fa1XihMUqrURjB5Op6UuZBwWfoidpxnc5ZADmoEo2rsYQQ6hEPRphxjDlY6QBNCdpNlZBAE309ofcIf1WtI4QZDZD" output_username="DenTry Uzunebko" output_url="rtmp://rtmp-api.facebook.com:80/rtmp/" output_location="570894499755082?ds=1&amp;a=AdroWe903lm-0-KH" output_location_with_bitrate="570894499755082?ds=1&amp;a=AdroWe903lm-0-KH" output_user_name="WajaTest" output_settings_complete="1" output_id="23A240C3-E1CC-48DE-A508-B3B402747FA5">
 				<pageList>
-					<xml_tag access_token="EAAX7qR8CHPEBAJvfTxg8rXO1LV08QZB6id1naPUn4oRCk6tcn2u9hl6J0xmIxAmbmggF9cCMeWNC8PXNoWbbq6kcY6qtdwn3OFpGnfRyZCWcPH2ktJsZAA1izMzhcTTvw4YdWJqZBi3mjNCtBfbZCcTXdmT9ZAqk2OOYJXz7OvTAZDZD" name="Waja" id="568775543300311" />
-					<xml_tag access_token="EAAX7qR8CHPEBAOsTBkGa0oMJ8tq0eGZBc1My6kvflhOm4cyRLxWKC32LajXN3m35UOwIbITU5lpDMZCmF6HrIcxQmjtRZALTRezAHsZCKddjHX9k5pZCVsn6QZAZBgrEsSdjT6dzeSj0eOn1yW5SzpB9xfjJoSIoILPU8OFq2m8uQZDZD" name="Try app den 2" id="189609714469540" />
-					<xml_tag access_token="EAAX7qR8CHPEBAETjazBUEBrLe19Pftkybg5IEwHgs2KsTEhdgLfiVxXn8v3SA3nQyZCXZBY3ABg5ZCTX84WDvyEqCXbiZBQluxIMzG04u2fMehZArK53lx6GfGlCVdpZAYSvh5YtKINwZB6lOKaGoYGlEe2RPdrICqyaudN8h9ZBmQZDZD" name="Try app den 2" id="197782830317153" />
+					<xml_tag id="568775543300311" access_token="EAAX7qR8CHPEBAJvfTxg8rXO1LV08QZB6id1naPUn4oRCk6tcn2u9hl6J0xmIxAmbmggF9cCMeWNC8PXNoWbbq6kcY6qtdwn3OFpGnfRyZCWcPH2ktJsZAA1izMzhcTTvw4YdWJqZBi3mjNCtBfbZCcTXdmT9ZAqk2OOYJXz7OvTAZDZD" name="Waja" />
+					<xml_tag id="189609714469540" access_token="EAAX7qR8CHPEBAOsTBkGa0oMJ8tq0eGZBc1My6kvflhOm4cyRLxWKC32LajXN3m35UOwIbITU5lpDMZCmF6HrIcxQmjtRZALTRezAHsZCKddjHX9k5pZCVsn6QZAZBgrEsSdjT6dzeSj0eOn1yW5SzpB9xfjJoSIoILPU8OFq2m8uQZDZD" name="Try app den 2" />
+					<xml_tag id="197782830317153" access_token="EAAX7qR8CHPEBAETjazBUEBrLe19Pftkybg5IEwHgs2KsTEhdgLfiVxXn8v3SA3nQyZCXZBY3ABg5ZCTX84WDvyEqCXbiZBQluxIMzG04u2fMehZArK53lx6GfGlCVdpZAYSvh5YtKINwZB6lOKaGoYGlEe2RPdrICqyaudN8h9ZBmQZDZD" name="Try app den 2" />
 				</pageList>
 			</output>
 			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="/Users/denis/Movies" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" output_guid="BB87BDB4-78F8-44EC-96E2-9EF9112D7D14" output_presetname="BB87BDB4-78F8-44EC-96E2-9EF9112D7D14" output_type="6" output_enabled="1" unique_id="1" />
@@ -82,26 +80,48 @@
 				<parameter name="capture_monitor_state" value="1684955506" />
 			</settings>
 		</xml_tag>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-1">
+			<settings>
+				<parameter name="Type" value="1" />
+				<parameter name="window" value="Zoom Participant ID: 19   Meeting ID: 678-241-4507" />
+				<parameter name="class" value="ZPContentViewWndClass" />
+				<parameter name="cursor" value="false" />
+				<parameter name="process" value="Zoom.exe" />
+				<parameter name="monitor" value="0" />
+				<parameter name="fps" value="3" />
+				<parameter name="audio" value="true" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="regionSelect" value="false" />
+				<parameter name="regionLeft" value="0" />
+				<parameter name="regionRight" value="300" />
+				<parameter name="regionTop" value="0" />
+				<parameter name="regionBottom" value="300" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
 	</source_sdk_settings>
 	<social_media />
 	<assets>
-		<asset name="Blank Shot" unique_id="A1E77723-E97E-4CDC-919F-DE69C614FB5C_shot" type="shot" media-type="9" vam_state="1" created_for_layer="5" blank_shot="1" />
-		<asset name="Blank Shot" unique_id="493AF444-2D71-43B9-A917-83F0BECFF05E_shot" type="shot" media-type="9" vam_state="7" created_for_layer="1" blank_shot="1" />
-		<asset name="Blank Shot" unique_id="5AE63226-AF65-4E72-A6E1-4B5443BFBFB4_shot" type="shot" media-type="9" vam_state="7" created_for_layer="2" blank_shot="1" />
+		<asset name="Blank Shot" unique_id="A1E77723-E97E-4CDC-919F-DE69C614FB5C_shot" type="shot" media-type="9" visible="1" created_for_layer="5" blank_shot="1" vam_state="1" />
+		<asset name="Blank Shot" unique_id="493AF444-2D71-43B9-A917-83F0BECFF05E_shot" type="shot" media-type="9" visible="1" created_for_layer="1" blank_shot="1" vam_state="7" />
+		<asset name="Blank Shot" unique_id="5AE63226-AF65-4E72-A6E1-4B5443BFBFB4_shot" type="shot" media-type="9" visible="1" created_for_layer="2" blank_shot="1" vam_state="7" />
 		<asset name="Blank Shot" unique_id="51222A7B-6E13-4746-A13F-AAD1BED4FA1E_shot" type="shot" media-type="9" vam_state="1" created_for_layer="3" blank_shot="1" />
 		<asset name="Blank Shot" unique_id="55F3451C-A658-4CB4-9A9B-8E3E605856EA_shot" type="shot" media-type="9" vam_state="1" created_for_layer="4" blank_shot="1" />
-		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="Local Desktop Presenter~Local Desktop Presenter 0" name="Zoom" video_tracks="1" audio_tracks="1" square_pixel_width="1" sourceGUID="FAB9F172-9E35-4A34-B94B-89C29BF66B98" square_pixel_height="1" />
-		<asset name="Zoom" unique_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" type="shot" media-type="9" vam_state="14" veil_track_count="1" audio_tracks="2" alpha_track_count="2" still_image_tracks="1" video_tracks="2" created_for_layer="5" />
-		<asset name="bg1.png" url="/Users/denis/Documents/Business/Waja/code/wirecast/img/bg1.png" type="file" still_image_tracks="1" media-type="1" unique_id="B300D5A7-9CA5-4F73-94F4-426E96BFC645_bg1.png" timescale="40" duration="40" alpha_track_count="1" square_pixel_width="854" square_pixel_height="480" />
-		<asset media-type="7" type="veil" unique_id="veil_title_1465213500496074" name="Royal Title" text="" veil_track_count="1" alpha_track_count="1" timestamp="142" category="royal" input_count="3" width="1280" height="720" thumbnail_scale="1" />
-		<asset media-type="7" type="veil" unique_id="veil_title_1465466896068676" name="Royal Title" text="" veil_track_count="1" alpha_track_count="1" timestamp="14" category="royal" input_count="3" width="1280" height="720" thumbnail_scale="1" />
-		<asset name="Zoom One" unique_id="3DA6957D-76F6-4F72-883F-D6FDF6669F2F" type="shot" media-type="9" vam_state="8" still_image_tracks="1" veil_track_count="1" alpha_track_count="2" audio_tracks="1" video_tracks="1" created_for_layer="5" />
+		<asset name="Zoom" unique_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" type="shot" media-type="9" visible="1" veil_track_count="1" audio_tracks="2" alpha_track_count="2" video_tracks="2" still_image_tracks="0" created_for_layer="5" vam_state="14" />
+		<asset media-type="7" type="veil" unique_id="veil_title_1465213500496074" name="Royal Title" text="" veil_track_count="1" alpha_track_count="1" timestamp="144" category="royal" input_count="3" width="1280" height="720" thumbnail_scale="1" />
+		<asset media-type="7" type="veil" unique_id="veil_title_1465466896068676" name="Royal Title" text="" veil_track_count="1" alpha_track_count="1" timestamp="16" category="royal" input_count="3" width="1280" height="720" thumbnail_scale="1" />
+		<asset name="Zoom One" unique_id="3DA6957D-76F6-4F72-883F-D6FDF6669F2F" type="shot" media-type="9" visible="1" video_tracks="0" still_image_tracks="0" veil_track_count="1" alpha_track_count="3" audio_tracks="0" created_for_layer="5" vam_state="0" />
+		<asset name="bg1.png" url="C:\Users\Administrator\Documents\Wirecast\wcsetup\images\bg1.png" type="file" media-type="1" unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png" timescale="40" duration="40" alpha_track_count="1" square_pixel_width="854" square_pixel_height="480" visible="1" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="pc-capture~pc-capture-1" name="Zoom" video_tracks="1" audio_tracks="1" sourceGUID="4cde318a-6445-4c7a-a861-0fb50e0fc871" visible="1" square_pixel_height="771" square_pixel_width="1472" />
 	</assets>
 	<chroma_key_configurations>
-		<chroma_key_configuration unique_id="Local Desktop Presenter~Local Desktop Presenter 0" chroma_config_id="2187" timestamp="64" ck_edge_blend_active="1" ck_key_cb="98.9007" ck_key_cr="91.2211" ck_key_cutoff="1.3" ck_source_encoding="876229170" ck_luma_clip_hi="225" ck_black_clip="0" ck_source_encoding_width="0" ck_active="0" />
-		<chroma_key_configuration unique_id="B300D5A7-9CA5-4F73-94F4-426E96BFC645_bg1.png" chroma_config_id="2188" />
-		<chroma_key_configuration unique_id="veil_title_1465213500496074" chroma_config_id="2189" />
-		<chroma_key_configuration unique_id="veil_title_1465466896068676" chroma_config_id="2190" />
+		<chroma_key_configuration unique_id="Local Desktop Presenter~Local Desktop Presenter 0" chroma_config_id="587" timestamp="64" ck_edge_blend_active="1" ck_key_cb="98.9007" ck_key_cr="91.2211" ck_key_cutoff="1.3" ck_source_encoding="876229170" ck_luma_clip_hi="225" ck_black_clip="0" ck_source_encoding_width="0" ck_active="0" />
+		<chroma_key_configuration unique_id="B300D5A7-9CA5-4F73-94F4-426E96BFC645_bg1.png" chroma_config_id="588" />
+		<chroma_key_configuration unique_id="veil_title_1465213500496074" chroma_config_id="589" />
+		<chroma_key_configuration unique_id="veil_title_1465466896068676" chroma_config_id="590" />
+		<chroma_key_configuration unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png" chroma_config_id="2281" />
+		<chroma_key_configuration unique_id="pc-capture~pc-capture-1" timestamp="10" chroma_config_id="2374" />
+		<chroma_key_configuration unique_id="missing.jpg" timestamp="10" chroma_config_id="2381" />
 	</chroma_key_configurations>
 	<shots>
 		<shot event_type="2" unique_id="A1E77723-E97E-4CDC-919F-DE69C614FB5C_shot" />
@@ -111,7 +131,7 @@
 		<shot event_type="2" unique_id="55F3451C-A658-4CB4-9A9B-8E3E605856EA_shot" />
 		<shot event_type="2" template_uuid="B8E42E5F-3358-4F08-82BE-DF77650D344B" virtualsetzoom="0" unique_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot">
 			<event event_type="4" zorder="5" unique_id="one_quad">
-				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="1,0.999219" unique_id="B300D5A7-9CA5-4F73-94F4-426E96BFC645_bg1.png">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="1,0.999219" unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png">
 					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" play_speed="1" />
 				</event>
 			</event>
@@ -128,21 +148,21 @@
 				</event>
 			</event>
 			<event event_type="4" zorder="15" unique_id="one_quad" template_tag="1">
-				<event event_type="2" channel_id="1" obj_crop_rect="450,146,1094,712" obj_scale="0.657692,1.16923" obj_pos="-0.740641,-0.502994" ro_respect_aspect_ratio="1" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="-1.7,0" ro_user_scale="1.16923,1.16923" unique_id="Local Desktop Presenter~Local Desktop Presenter 0">
-					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" play_speed="1" />
-					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" play_speed="1" />
+				<event event_type="2" channel_id="1" obj_scale="0.46981,0.621205" obj_crop_rect="355,391,676,52" obj_pos="-0.529655,2.21388" ro_respect_aspect_ratio="1" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="-1.7,0" ro_user_scale="1.56816,1.56816" unique_id="pc-capture~pc-capture-1" obj_rot_off="-1.23109,-1.54089">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" play_speed="1" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" play_speed="1" />
 				</event>
 			</event>
 			<event event_type="4" unique_id="one_quad" zorder="20" template_tag="2">
-				<event event_type="2" channel_id="1" chroma_config_id="2187" ro_user_scale="1.17561,1.17561" obj_crop_rect="440,752,1082,108" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="1.7,0" obj_pos="2.84115,1.85389" obj_scale="0.661281,1.17561" unique_id="Local Desktop Presenter~Local Desktop Presenter 0" ro_respect_aspect_ratio="1">
-					<event event_type="1" channel_id="1" ro_media_type="1635083375" play_speed="1" default_action="2" play_flags="6" />
-					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" />
+				<event event_type="2" channel_id="1" chroma_config_id="587" ro_user_scale="1.56816,1.56816" obj_rot_off="-1.23109,1.54998" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="1.7,0" obj_pos="2.97931,-0.881633" obj_scale="0.46981,0.617417" unique_id="pc-capture~pc-capture-1" ro_respect_aspect_ratio="1" obj_crop_rect="355,52,676,393">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
 				</event>
 			</event>
 		</shot>
 		<shot event_type="2" template_uuid="B8E42E5F-3358-4F08-82BE-DF77650D344B" virtualsetzoom="0" unique_id="3DA6957D-76F6-4F72-883F-D6FDF6669F2F">
 			<event event_type="4" zorder="5" unique_id="one_quad">
-				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="1,0.999219" unique_id="B300D5A7-9CA5-4F73-94F4-426E96BFC645_bg1.png">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="1,0.999219" unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png">
 					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" play_speed="1" />
 				</event>
 			</event>
@@ -159,8 +179,8 @@
 				</event>
 			</event>
 			<event event_type="4" unique_id="one_quad" zorder="15" template_tag="2">
-				<event event_type="2" channel_id="1" chroma_config_id="2187" ro_user_scale="0.707317,0.707317" obj_crop_rect="16,204,656,164" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="1.7,0" ro_respect_aspect_ratio="1" obj_scale="0.397866,0.707317" unique_id="Local Desktop Presenter~Local Desktop Presenter 0" obj_pos="0.576659,0.546341">
-					<event event_type="1" channel_id="1" ro_media_type="1635083375" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
+				<event event_type="2" channel_id="1" chroma_config_id="587" ro_user_scale="0.707317,0.707317" obj_crop_rect="16,204,656,164" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="1.7,0" ro_respect_aspect_ratio="1" obj_scale="0.596799,0.707317" unique_id="missing.jpg" obj_pos="0.576659,0.546341">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
 					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
 				</event>
 			</event>
