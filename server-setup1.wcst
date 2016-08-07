@@ -1,0 +1,191 @@
+<document version="6" os="windows" original_document_path="C:\Users\Administrator\Documents\Wirecast\wcsetup\server-setup1.wcst">
+	<open_windows>
+		<vamWindowGlass frame="0,23,1285,729" asset_icon_scale="0.5" asset_icon_updateFPS="15" selected_layer="1836282930" vam_main_splitter="0.65" />
+	</open_windows>
+	<window_info>
+		<window frame="341,64,964,670" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="554:EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" asset_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" />
+	</window_info>
+	<vam_state master_audio_shown="1010" master_audio_monitor="0" preview_audio_monitor="0" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" transition_selected="0" />
+	<transition_data />
+	<chroma_key_data />
+	<advanced_output>
+		<output_list output_last_selected="7E45663B-00BE-4673-91AF-5E0169F86B0E">
+			<output output_type="2" output_branding="youtube" output_display_group_name="YouTube" output_display_name="Denis Krivitski Live Stream" output_guid="374F8CCA-39E7-4A4E-B150-83E764849BAC" unique_id="2" use_backup="0" yt_end_v1_ad_enabled="0" start_event_upon_streaming="0" output_password="1/XuZTvkbN5YohO9QAUqK23OWMsSVJMCs4MREPFf4Kn7E" output_username="denis.krivitski@gmail.com" event_id="O_YIjqxU1U4" output_url="rtmp://a.rtmp.youtube.com/live2" output_location="c270-5e38-mxvh-39dm" youtube_title="Denis Krivitski Live Stream" output_presetname="YouTube: 240p Recommended" output_enabled="0" output_location_with_bitrate="c270-5e38-mxvh-39dm" output_settings_complete="0" output_id="5593E288-89B4-4E92-B9F2-6F44C6F23B34" />
+			<output output_enabled="1" output_type="1" output_url="C:\Users\Administrator\Documents\Wirecast\Recordings\MyStream.mp4" output_autoinfilename="1" output_branding="Record To Disk MP4 Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk - MP4" output_presetname="H.264 720p 16:9 (1280x720)" output_settings_complete="1" output_id="7E45663B-00BE-4673-91AF-5E0169F86B0E" unique_id="5" output_guid="d816198e-dd65-40e0-a09a-6b115f7398bf" />
+			<output output_type="2" output_branding="Facebook" output_display_group_name="Facebook" output_display_name="WajaTest" output_guid="7199653A-1A83-4468-B2A6-544631E9544B" unique_id="4" output_presetname="H.264 720p 16:9 (1280x720)" title="WajaTest" description="" selectedPageIndex="1" selectedPrivacyIndex="0" output_enabled="1" oauth_access_token="EAAX7qR8CHPEBAA6fuUaiA2ZC803Bpsgs7aAjzZA8dgMaK1iwJR0cllrmL456pIPg0KRhePRZCLumtfQXlrBnep0fa1XihMUqrURjB5Op6UuZBwWfoidpxnc5ZADmoEo2rsYQQ6hEPRphxjDlY6QBNCdpNlZBAE309ofcIf1WtI4QZDZD" output_username="DenTry Uzunebko" output_url="rtmp://rtmp-api.facebook.com:80/rtmp/" output_location="575177582660107?ds=1&amp;a=AaZYYhiwyC-Xklhi" output_location_with_bitrate="575177582660107?ds=1&amp;a=AaZYYhiwyC-Xklhi" output_user_name="WajaTest" output_settings_complete="1" output_id="23A240C3-E1CC-48DE-A508-B3B402747FA5" flash_streaming_delay="0">
+				<pageList>
+					<xml_tag id="568775543300311" access_token="EAAX7qR8CHPEBAJvfTxg8rXO1LV08QZB6id1naPUn4oRCk6tcn2u9hl6J0xmIxAmbmggF9cCMeWNC8PXNoWbbq6kcY6qtdwn3OFpGnfRyZCWcPH2ktJsZAA1izMzhcTTvw4YdWJqZBi3mjNCtBfbZCcTXdmT9ZAqk2OOYJXz7OvTAZDZD" name="Waja" />
+					<xml_tag id="189609714469540" access_token="EAAX7qR8CHPEBAOsTBkGa0oMJ8tq0eGZBc1My6kvflhOm4cyRLxWKC32LajXN3m35UOwIbITU5lpDMZCmF6HrIcxQmjtRZALTRezAHsZCKddjHX9k5pZCVsn6QZAZBgrEsSdjT6dzeSj0eOn1yW5SzpB9xfjJoSIoILPU8OFq2m8uQZDZD" name="Try app den 2" />
+					<xml_tag id="197782830317153" access_token="EAAX7qR8CHPEBAETjazBUEBrLe19Pftkybg5IEwHgs2KsTEhdgLfiVxXn8v3SA3nQyZCXZBY3ABg5ZCTX84WDvyEqCXbiZBQluxIMzG04u2fMehZArK53lx6GfGlCVdpZAYSvh5YtKINwZB6lOKaGoYGlEe2RPdrICqyaudN8h9ZBmQZDZD" name="Try app den 2" />
+				</pageList>
+			</output>
+			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="/Users/denis/Movies" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" output_guid="BB87BDB4-78F8-44EC-96E2-9EF9112D7D14" output_presetname="BB87BDB4-78F8-44EC-96E2-9EF9112D7D14" output_type="6" output_enabled="1" unique_id="1" />
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="YouTube: 240p Recommended">
+			<movie format="Flash" output_system="">
+				<track mo_width="426" mo_height="240" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="400" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="1" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" />
+			</movie>
+		</preset>
+		<preset output_presetname="H.264 720p 16:9 (1280x720)">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="2025" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="44100" />
+			</movie>
+		</preset>
+		<preset output_presetname="BB87BDB4-78F8-44EC-96E2-9EF9112D7D14">
+			<movie format="Replay" output_system="replay">
+				<track mo_width="640" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" />
+			</movie>
+		</preset>
+		<preset output_presetname="WirecastInternalVirtualCameraPreset">
+			<movie format="Virtual Camera" output_system="virtual-capture">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" match_canvas="1" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="0" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" output_shared_memory="0" output_virtual_microphone="0" />
+			</movie>
+		</preset>
+	</output_presets>
+	<volume value="1" />
+	<preview_volume value="1" />
+	<auto_live value="0" />
+	<flip_flop value="0" />
+	<output_annotations />
+	<transition_duration />
+	<visual_style />
+	<single_output />
+	<media_directories import_images_default_dir="/Users/denis/Documents/Business/Waja/code/wirecast/img" />
+	<layer_names />
+	<layer_scales />
+	<layer_visible />
+	<sections />
+	<aspectRatio custom_width="1280" custom_height="720" />
+	<shot_key_map />
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" />
+		<xml_tag vaLayerIndex="1" beLayerEnum="2" vaLayerEnum="1836282929" unique_id="493AF444-2D71-43B9-A917-83F0BECFF05E_shot" />
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="5AE63226-AF65-4E72-A6E1-4B5443BFBFB4_shot" />
+	</shotsLiveWhenSaved>
+	<source_sdk_settings>
+		<xml_tag SOURCE_SDK_ID_DOC="Local Desktop Presenter~Local Desktop Presenter 0">
+			<settings unique_id="1" output_guid="74CA7904-9876-40DC-8C89-FF319C9DA1CC">
+				<parameter name="Type" value="1" />
+				<parameter name="cursor" value="false" />
+				<parameter name="capture_audio" value="true" />
+				<parameter name="inactive" value="false" />
+				<parameter name="capture_window" value="1197" />
+				<parameter name="capture_game" value="false" />
+				<parameter name="capture_monitor" value="0" />
+				<parameter name="capture_monitor_region" value="0,0,-1,-1" />
+				<parameter name="capture_monitor_state" value="1684955506" />
+			</settings>
+		</xml_tag>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-1">
+			<settings>
+				<parameter name="Type" value="1" />
+				<parameter name="window" value="Zoom Participant ID: 19   Meeting ID: 678-241-4507" />
+				<parameter name="class" value="ZPContentViewWndClass" />
+				<parameter name="cursor" value="false" />
+				<parameter name="process" value="Zoom.exe" />
+				<parameter name="monitor" value="0" />
+				<parameter name="fps" value="3" />
+				<parameter name="audio" value="true" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="regionSelect" value="false" />
+				<parameter name="regionLeft" value="0" />
+				<parameter name="regionRight" value="300" />
+				<parameter name="regionTop" value="0" />
+				<parameter name="regionBottom" value="300" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
+	</source_sdk_settings>
+	<social_media />
+	<assets>
+		<asset name="Blank Shot" unique_id="A1E77723-E97E-4CDC-919F-DE69C614FB5C_shot" type="shot" media-type="9" visible="1" created_for_layer="5" blank_shot="1" vam_state="1" />
+		<asset name="Blank Shot" unique_id="493AF444-2D71-43B9-A917-83F0BECFF05E_shot" type="shot" media-type="9" visible="1" created_for_layer="1" blank_shot="1" vam_state="7" />
+		<asset name="Blank Shot" unique_id="5AE63226-AF65-4E72-A6E1-4B5443BFBFB4_shot" type="shot" media-type="9" visible="1" created_for_layer="2" blank_shot="1" vam_state="7" />
+		<asset name="Blank Shot" unique_id="51222A7B-6E13-4746-A13F-AAD1BED4FA1E_shot" type="shot" media-type="9" vam_state="1" created_for_layer="3" blank_shot="1" />
+		<asset name="Blank Shot" unique_id="55F3451C-A658-4CB4-9A9B-8E3E605856EA_shot" type="shot" media-type="9" vam_state="1" created_for_layer="4" blank_shot="1" />
+		<asset name="Zoom" unique_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot" type="shot" media-type="9" visible="1" veil_track_count="1" audio_tracks="2" alpha_track_count="2" video_tracks="2" still_image_tracks="0" created_for_layer="5" vam_state="14" />
+		<asset media-type="7" type="veil" unique_id="veil_title_1465213500496074" name="Royal Title" text="" veil_track_count="1" alpha_track_count="1" timestamp="144" category="royal" input_count="3" width="1280" height="720" thumbnail_scale="1" />
+		<asset media-type="7" type="veil" unique_id="veil_title_1465466896068676" name="Royal Title" text="" veil_track_count="1" alpha_track_count="1" timestamp="16" category="royal" input_count="3" width="1280" height="720" thumbnail_scale="1" />
+		<asset name="Zoom One" unique_id="3DA6957D-76F6-4F72-883F-D6FDF6669F2F" type="shot" media-type="9" visible="1" video_tracks="0" still_image_tracks="0" veil_track_count="1" alpha_track_count="3" audio_tracks="0" created_for_layer="5" vam_state="0" />
+		<asset name="bg1.png" url="C:\Users\Administrator\Documents\Wirecast\wcsetup\images\bg1.png" type="file" media-type="1" unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png" timescale="40" duration="40" alpha_track_count="1" square_pixel_width="854" square_pixel_height="480" visible="1" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="pc-capture~pc-capture-1" name="Zoom" video_tracks="1" audio_tracks="1" sourceGUID="4cde318a-6445-4c7a-a861-0fb50e0fc871" visible="1" square_pixel_height="771" square_pixel_width="1472" />
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="Local Desktop Presenter~Local Desktop Presenter 0" chroma_config_id="587" timestamp="64" ck_edge_blend_active="1" ck_key_cb="98.9007" ck_key_cr="91.2211" ck_key_cutoff="1.3" ck_source_encoding="876229170" ck_luma_clip_hi="225" ck_black_clip="0" ck_source_encoding_width="0" ck_active="0" />
+		<chroma_key_configuration unique_id="B300D5A7-9CA5-4F73-94F4-426E96BFC645_bg1.png" chroma_config_id="588" />
+		<chroma_key_configuration unique_id="veil_title_1465213500496074" chroma_config_id="589" />
+		<chroma_key_configuration unique_id="veil_title_1465466896068676" chroma_config_id="590" />
+		<chroma_key_configuration unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png" chroma_config_id="2281" />
+		<chroma_key_configuration unique_id="pc-capture~pc-capture-1" timestamp="10" chroma_config_id="2374" />
+		<chroma_key_configuration unique_id="missing.jpg" timestamp="10" chroma_config_id="2381" />
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="A1E77723-E97E-4CDC-919F-DE69C614FB5C_shot" />
+		<shot event_type="2" unique_id="493AF444-2D71-43B9-A917-83F0BECFF05E_shot" />
+		<shot event_type="2" unique_id="5AE63226-AF65-4E72-A6E1-4B5443BFBFB4_shot" />
+		<shot event_type="2" unique_id="51222A7B-6E13-4746-A13F-AAD1BED4FA1E_shot" />
+		<shot event_type="2" unique_id="55F3451C-A658-4CB4-9A9B-8E3E605856EA_shot" />
+		<shot event_type="2" template_uuid="B8E42E5F-3358-4F08-82BE-DF77650D344B" virtualsetzoom="0" unique_id="EE364D9F-E87C-4167-82F3-FB08019E26C8_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="1,0.999219" unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" play_speed="1" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" timestamp="28" ro_respect_aspect_ratio="1" obj_pos="0,-0.312195" unique_id="veil_title_1465213500496074">
+					<veil_graphic category="royal" type="veil_template" name="Royal Title" unique_id="royal_title" input_count="3" width="1280" height="720" thumbnail_scale="1" text="">
+						<image url="royal_title.png" name="royaltitle" text="">
+							<text text_id="1" rect="22,491,452,528" text="Waja" font_id="arial_24" color="0,0,0" shadow="0" justification="lv" name="" />
+							<text text_id="2" rect="22,548,1252,611" text="iPhone vs Android" font_family="Arial" font_size="48" color="255,255,255" shadow="0" justification="lv" name="" />
+							<text text_id="3" rect="22,611,1252,642" text="" font_id="arial_24" color="255,255,255" shadow="0" justification="lv" name="" />
+						</image>
+					</veil_graphic>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+			<event event_type="4" zorder="15" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" obj_scale="0.46981,0.621205" obj_crop_rect="355,391,676,52" obj_pos="-0.529655,2.21388" ro_respect_aspect_ratio="1" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="-1.7,0" ro_user_scale="1.56816,1.56816" unique_id="pc-capture~pc-capture-1" obj_rot_off="-1.23109,-1.54089">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" play_speed="1" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" play_speed="1" />
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="20" template_tag="2">
+				<event event_type="2" channel_id="1" chroma_config_id="587" ro_user_scale="1.56816,1.56816" obj_rot_off="-1.23109,1.54998" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="1.7,0" obj_pos="2.97931,-0.881633" obj_scale="0.46981,0.617417" unique_id="pc-capture~pc-capture-1" ro_respect_aspect_ratio="1" obj_crop_rect="355,52,676,393">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="B8E42E5F-3358-4F08-82BE-DF77650D344B" virtualsetzoom="0" unique_id="3DA6957D-76F6-4F72-883F-D6FDF6669F2F">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="1,0.999219" unique_id="40b1c7d3-e80b-45b1-8b90-cdd3ec0fd32d_bg1.png">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" play_speed="1" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" timestamp="29" ro_respect_aspect_ratio="1" obj_pos="0,-0.312195" unique_id="veil_title_1465466896068676">
+					<veil_graphic category="royal" type="veil_template" name="Royal Title" unique_id="royal_title" input_count="3" width="1280" height="720" thumbnail_scale="1" text="">
+						<image url="royal_title.png" name="royaltitle" text="">
+							<text text_id="1" rect="22,491,452,528" text="Waja" font_id="arial_24" color="0,0,0" shadow="0" justification="lv" name="" />
+							<text text_id="2" rect="22,548,1252,611" text="iPhone vs Android" font_family="Arial" font_size="48" color="255,255,255" shadow="0" justification="lv" name="" />
+							<text text_id="3" rect="22,611,1252,642" text="" font_id="arial_24" color="255,255,255" shadow="0" justification="lv" name="" />
+						</image>
+					</veil_graphic>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="15" template_tag="2">
+				<event event_type="2" channel_id="1" chroma_config_id="587" ro_user_scale="0.707317,0.707317" obj_crop_rect="16,204,656,164" scale_from_virtual_set="0.44,0.44" pos_from_virtual_set="1.7,0" ro_respect_aspect_ratio="1" obj_scale="0.596799,0.707317" unique_id="missing.jpg" obj_pos="0.576659,0.546341">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_speed="1" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>
